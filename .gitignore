@@ -1,0 +1,13 @@
+# editor
+*.sw[a-z]
+
+# node
+package-lock.json
+node_modules
+build
+
+# dotenv
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
